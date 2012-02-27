@@ -26,7 +26,7 @@ If you use log4j in your app, quartz-jruby integrates with it as well.
 
 ## Feedback
 
-If you have any feedback, send me an email vagmi <at> [artha42.com](http://www.artha42.com).
+If you have any feedback, send me an email vagmi <at> [dharanasoft.com](http://www.dharanasoft.com).
 
 ## License
 
